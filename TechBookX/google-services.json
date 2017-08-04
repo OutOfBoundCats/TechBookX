@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019973916472",
+    "firebase_url": "https://tech-bookx.firebaseio.com",
+    "project_id": "tech-bookx",
+    "storage_bucket": "tech-bookx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019973916472:android:d86c35c84eba4b87",
+        "android_client_info": {
+          "package_name": "com.app.techbookx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019973916472-cvvucpjki7vujlb8kr2c015cvamti93a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBel4uA_xXD4Py5scTx9sReaa9ELCeMfT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
